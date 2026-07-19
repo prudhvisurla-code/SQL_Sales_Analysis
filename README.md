@@ -69,24 +69,6 @@ ORDER BY TotalSales DESC;
 
 ---
 
-## Screenshots
-
-### Database
-
-![Database](Screenshots/01_Database.png)
-
-### Table
-
-![Table](Screenshots/02_Table.png)
-
-### Query Results
-
-![Query Results](Screenshots/04_QueryResults.png)
-
-### Analysis
-
-![Analysis](Screenshots/05_Analysis.png)
-
 ---
 
 ## Project Structure
